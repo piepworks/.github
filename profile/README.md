@@ -1,6 +1,6 @@
 ## Hi! 🐓
 
-BTW, Piepworks is pronounced "PEEP works" 🐥
+Piepworks is pronounced "PEEP works" 🐥
 
 Learn more about us at [piep.works](https://piep.works)
 
